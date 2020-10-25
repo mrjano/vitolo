@@ -10,9 +10,9 @@
   background-color: var(--bg-secondary) !important; }
 
 #mainNav .navbar-brand {
-    color: var(--text-color); }
+    color: white; }
 #mainNav .navbar-nav li.nav-item a.nav-link {
-    color: var(--text-color); }
+    color: white }
 
 .electrician {
     background-image: url(https://mrjano.github.io/vitolo/assets/img/electrician.jpg);}
