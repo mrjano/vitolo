@@ -18,6 +18,11 @@
     /* background-image: url(https://mrjano.github.io/vitolo/assets/img/electrician.jpg); */
 }
 
+.navbar-toggler .svg-inline--fa {
+    height: 1.8em;
+    width: 1.575em;
+}
+
 .masthead-heading {
     color: white; }
 
